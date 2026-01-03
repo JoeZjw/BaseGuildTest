@@ -1,0 +1,1 @@
+Hi there, this is a file to test if the requirement of https://guild.xyz/base can be fulfilled for having at least 1 commit
